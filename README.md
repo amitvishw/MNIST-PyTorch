@@ -1,6 +1,8 @@
 # MNIST-PyTorch
 MNIST Handwritten Digit Recognition with PyTorch
 
+<img width="655" height="325" alt="MNIST_dataset" src="https://github.com/user-attachments/assets/0f42c10a-fb72-444f-8c78-37e8b8a70491" />
+
 ## Setup
 
 For this project, I have opted to use Conda for managing Python environment and PyCharm as the code editor.
